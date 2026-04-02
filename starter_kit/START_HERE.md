@@ -25,6 +25,12 @@ Use scripts in `starter_kit/scripts`:
 
 Run `03_full_run.sh` once smoke logs look healthy.
 
+Optional: run the full 10-run A40 non-record campaign and auto-rank outputs:
+
+```bash
+bash starter_kit/scripts/04_non_record_a40_campaign.sh
+```
+
 ## 4) Prepare a PR-ready records folder
 
 Run:
