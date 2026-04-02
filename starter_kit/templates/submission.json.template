@@ -1,0 +1,9 @@
+{
+  "author_name": "Your Name",
+  "github_id": "your_github",
+  "run_name": "your_run_name",
+  "track": "non-record",
+  "val_bpb": 1.2000,
+  "date": "YYYY-MM-DD",
+  "notes": "Fill with concise methodology and constraints."
+}
