@@ -1,9 +1,11 @@
 {
-  "author_name": "Your Name",
+  "author": "Your Name",
+  "name": "your_run_name",
+  "blurb": "Fill with concise methodology and constraints.",
+  "size": "16mb",
   "github_id": "your_github",
-  "run_name": "your_run_name",
-  "track": "non-record",
+  "track": "non_record_16mb",
   "val_bpb": 1.2000,
   "date": "YYYY-MM-DD",
-  "notes": "Fill with concise methodology and constraints."
+  "seed": 1337
 }

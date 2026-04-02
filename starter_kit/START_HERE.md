@@ -31,7 +31,7 @@ Run:
 
 ```bash
 python starter_kit/scripts/prepare_submission.py \
-  --track non-record \
+  --track non_record_16mb \
   --run-name my_first_non_record \
   --author-name "Your Name" \
   --github-id "your_github" \
